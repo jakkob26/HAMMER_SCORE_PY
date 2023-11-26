@@ -5,11 +5,6 @@ income = input("What's your total yearly income? ")
 
 income = int(income)
 
-
-
-
-
-
 spending = input("Do you go over your budget? If so, how much? ")
 
 spending = int(spending)
@@ -70,5 +65,3 @@ else:
     print('Real Estate score is 0/10')
     
 
-
-#You kno
